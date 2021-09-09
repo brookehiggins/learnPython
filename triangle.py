@@ -1,9 +1,9 @@
 #!/usr/bin/env python
 
 # Brooke Higgins
-# Intro to Programming (Python)
+# CSC119801 Intro to Programming (Python)
 # 09/09/2021
-# Traingle Program
+# Printing a triangle in the console using Python
 def main():
     print("   x")
     print("  xxx")
